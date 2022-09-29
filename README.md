@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Limaat Berhe</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=450> 
+<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=100%> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golimaat&label=Profile%20views&color=0e75b6&style=flat" alt="golimaat" /> </p>
 
