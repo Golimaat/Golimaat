@@ -1,8 +1,8 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc5Ev05kc4KX43WsSj_OavXxMWEAfLG1c0Zw&usqp=CAU))]([))
-alt="coding img" width=500>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc5Ev05kc4KX43WsSj_OavXxMWEAfLG1c0Zw&usqp=CAU" width=450
+
 <h1 align="center">Hi 👋, I'm Limaat Berhe</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img src="" align="center" 
+<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=450> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golimaat&label=Profile%20views&color=0e75b6&style=flat" alt="golimaat" /> </p>
 
