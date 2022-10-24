@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc5Ev05kc4KX43WsSj_OavXxMWEAfLG1c0Zw&usqp=CAU" width=450
+
 
 <h1 align="center">Hi 👋, I'm Limaat Berhe</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
